@@ -27,3 +27,7 @@ body {
     margin: 25px;
     background-color: #F6FFF2;
 }
+
+.site-title { line-height: 80px; }
+
+img.site-title { height: 80px; width: 80px; }
