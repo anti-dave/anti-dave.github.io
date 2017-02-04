@@ -21,11 +21,21 @@
 
 /*Formats the body and sets the color to light green*/
 body {
+    text-align: center;
     margin: 0;
     /*    Sets the fonts to one of google fonts*/
     font-family: 'Quicksand', sans-serif;
     margin: 25px;
     background-color: #F6FFF2;
+}
+
+#introduction {
+    text-align: center;
+    margin: 0;
+    /*    Sets the fonts to one of google fonts*/
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #000000;
+    background-color: #333333;
 }
 
 .site-title { line-height: 80px; }
