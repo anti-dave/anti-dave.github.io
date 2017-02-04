@@ -26,6 +26,7 @@ body {
     /*    Sets the fonts to one of google fonts*/
     font-family: 'Quicksand', sans-serif;
     margin: 25px;
+    /*Black*/
     background-color: #000000;
 }
 
@@ -33,8 +34,9 @@ body {
     text-align: center;
     margin: 0;
     font-family: Tahoma, Geneva, sans-serif;
-    color: #FFFFFF;
-    background-color: #333333;
+    color: #000000;
+    background-color: #FFFFFF;
+    /*background-color: #333333;*/
 }
 
 .site-title { line-height: 80px; }
