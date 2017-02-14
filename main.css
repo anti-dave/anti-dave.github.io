@@ -25,7 +25,7 @@ body {
     margin: 0;
     font-family: 'Quicksand', sans-serif;
     margin: 25px;
-                    /*Black*/
+    /*Black*/
     background-color: #FFFFFF;
 }
 
@@ -38,7 +38,6 @@ body {
     /*White*/
     background-color: #333333;
 }
-
 .site-title { line-height: 80px; }
 
 img.site-title { height: 80px; width: 80px; }
