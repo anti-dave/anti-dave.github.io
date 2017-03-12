@@ -1,0 +1,43 @@
+/*Media queries for downsizing images from screen size 900*/
+@media screen and (max-width: 900px) {
+    img {
+        width: 600px;
+    }
+}
+
+/*Media queries for downsizing images from screen size 660*/
+@media screen and (max-width: 660px) {
+    img {
+        width: 480px;
+    }
+}
+
+/*Media queries for downsizing images from screen size 500*/
+@media screen and (max-width: 500px) {
+    img {
+        width: 360px;
+    }
+}
+
+/*Formats the body and sets the color to light green*/
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    margin: 25px;
+    /*Black*/
+    background-color: #FFFFFF;
+}
+
+#introduction {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #FFFFFF;
+    /*White*/
+    background-color: #333333;
+}
+.site-title { line-height: 80px; }
+
+img.site-title { height: 80px; width: 80px; }
