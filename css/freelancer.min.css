@@ -17,29 +17,28 @@ h1,h2,h3,h4,h5,h6{
 					text-transform:uppercase;
 					font-weight:700}
 
-hr.star-light,hr.star-primary{
+hr.lithosphere-light,hr.lithosphere-primary{
 								padding:0;
 								border:none;
 								border-top:solid 5px;
 								text-align:center;
-								max-width:250px;
+								max-width:500px;
 								margin:25px auto 30px}
 
-hr.star-light:after,hr.star-primary:after{
-											content:"\f005";
+hr.lithosphere-light:after,hr.lithosphere-primary:after{
 											font-family:FontAwesome;
 											display:inline-block;position:relative;top:-.8em;
 											font-size:2em;padding:0 .25em}
 
-hr.star-light{border-color:#fff}
+hr.lithosphere-light{border-color:#fff}
 
-hr.star-light:after{
+hr.lithosphere-light:after{
 					background-color:#18BC9C;
 					color:#fff}
 
-hr.star-primary{border-color:#2C3E50}
+hr.lithosphere-primary{border-color:#2C3E50}
 
-hr.star-primary:after{
+hr.lithosphere-primary:after{
 						background-color:#fff;
 						color:#2C3E50}
 
@@ -130,7 +129,7 @@ section.success{
 
 section.intermediate{
 				background:#b4a4bc;
-				color:#000}@media (max-width:767px)
+				color:#2C3E50}@media (max-width:767px)
 
 				{section{padding:75px 0}
 				 section.first{
