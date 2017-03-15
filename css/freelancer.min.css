@@ -128,6 +128,14 @@ section.success{
 				 section.first{
 				 				padding-top:75px}}
 
+section.intermediate{
+				background:#b4a4bc;
+				color:#000}@media (max-width:767px)
+
+				{section{padding:75px 0}
+				 section.first{
+				 				padding-top:75px}}
+
 #portfolio{ background:#f4dcee; }
 
 #portfolio .portfolio-item{margin:0 0 15px;right:0}
@@ -220,8 +228,9 @@ footer .footer-above{
 footer .footer-col{margin-bottom:50px}
 
 footer .footer-below{
+						color:#fff;
 						padding:25px 0;
-						background-color:#a68fa8}
+						background-color:#271628}
 
 .btn-outline{
 				color:#000;
